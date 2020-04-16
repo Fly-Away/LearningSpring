@@ -1,0 +1,3 @@
+insert into ms_account values ('DMI001','jl. parit haji lulung','nindo@gmail.com','Jaka',true, NOW(),'386342','364278','3242423','nope');
+insert into ms_dealer values ('JKTA001',true,'64736284','Jakarta Barat','BCA','Muwardi Bosman',50000000,50000000,50000000,'Zan','jl. extra joss','perhatiansuksesselalu@gmail.com','PT. Perhatian Sukses Selalu',NOW(),'376428','Nemo',63246,'3848236482','836428',3476284,3824728,'4765378','PPh23','Jakarta','nothing',2342424,'Jakarta','342347268');
+insert into ms_account_dealer values ('DMI001','JKTA001');
